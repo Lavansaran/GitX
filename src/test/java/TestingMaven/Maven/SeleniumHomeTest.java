@@ -17,4 +17,8 @@ public class SeleniumHomeTest {
 	public void homePa13eTest() {
 		System.out.println("Selenium Homepage testing");
 	}
+	@Test
+	public void homePa13ewTest() {
+		System.out.println("Selenium testing");
+	}
 }
