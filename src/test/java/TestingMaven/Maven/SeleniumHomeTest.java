@@ -10,8 +10,8 @@ public class SeleniumHomeTest {
 		System.out.println("Selenium Homepage testing");
 	}
 	@Test
-	public void homepage() {
-		System.out.println("hello ");
-		
+	public void homePa12eTest() {
+		System.out.println("Selenium Homepage testing");
 	}
+	
 }
