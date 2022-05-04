@@ -12,6 +12,6 @@ public class SeleniumHomeTest {
 	@Test
 	public void homepage() {
 		System.out.println("hello ");
-		System.out.println("hello change");
+		
 	}
 }
